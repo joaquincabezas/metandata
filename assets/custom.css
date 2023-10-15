@@ -7,3 +7,8 @@
 section.section {
     padding: 20px 0;
 }
+
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
