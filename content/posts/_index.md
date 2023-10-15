@@ -1,5 +1,5 @@
 ---
 title: Posts
-summary: Tell visitors about your posts by customizing this text.
+summary: Mostly Machine Learning content.
 description: Explore some of my recent posts.
 ---

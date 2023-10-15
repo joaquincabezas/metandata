@@ -1,1 +1,9 @@
 /* Add custom CSS */
+
+[data-theme="dark"] {
+    --color-bg: rgb(32, 32, 32)
+}
+
+section.section {
+    padding: 20px 0;
+}

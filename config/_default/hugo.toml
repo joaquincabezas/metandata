@@ -1,13 +1,12 @@
 ### General
-baseURL = 'https://www.example.com/' # Enter your full production URL
+baseURL = 'https://www.metandata.com/' # Enter your full production URL
 languageCode = 'en-us' # Default
-timeZone = 'America/New_York' # IANA timezone https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-title = 'Example Site' # Site title used throughout site
+timeZone = 'Europe/Paris' # IANA timezone https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+title = 'METANDATA' # Site title used throughout site
 
 ### SEO, Analytics & 3rd-party
 enableRobotsTXT = true # To overwrite the theme's robots.txt, add your own in the /layouts/ directory
 rssLimit = -1 # -1 is unlimited RSS entries
-# googleAnalytics = '' # Enter GA tracking ID to enable GA4
 # disqusShortname = '' # Enter Disqus shortname to enable comments
 
 ### Content & Publishing
