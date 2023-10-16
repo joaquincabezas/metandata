@@ -1,10 +1,12 @@
 ---
 type: about
-linktitle: About
-title: Hi, thanks for your curiosity :)
+linktitle: 
+title: About
 seo_title: About
 description: Learn more about my background and experience.
 ---
+
+# Hi, thanks for your curiosity :)
 
 ## Who?
 

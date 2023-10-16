@@ -1,3 +1,4 @@
-[submodule "themes/hugo-liftoff"]
-	path = themes/hugo-liftoff
-	url = https://github.com/wjh18/hugo-liftoff.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main

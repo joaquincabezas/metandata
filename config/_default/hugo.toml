@@ -40,7 +40,7 @@ disableHugoGeneratorInject = false # Default
 disableLiveReload = false # Default
 
 # Use this theme as git submodule
-theme = 'hugo-liftoff'
+theme = 'blowfish'
 # Or, use this theme as hugo module
 # [module]
 # [[module.imports]]
