@@ -63,3 +63,6 @@ about_page_socials = true
   twitter = true
   reddit = false
   email = true
+
+
+defaultAppearance="dark"
