@@ -1,9 +1,11 @@
 ---
 type: about
 linktitle: 
+date: 2023-10-18
 title: About
 seo_title: About
 description: Learn more about my background and experience.
+showDate: false
 ---
 
 ## Who?
@@ -23,12 +25,12 @@ goals.
 ## Technical details
 
 - This website is served using [Cloudflare Pages](https://pages.cloudflare.com/)
-- The content is hosted at [Github repository](https://github.com/joaquincabezas/metandata).
+- The content is hosted at a [Github repository](https://github.com/joaquincabezas/metandata).
 - The framework is [Hugo](https://gohugo.io/). The whole site is served statically.
 - The theme is [Blowfish](https://blowfish.page/) by [Nuno Coração](https://nunocoracao.com/).
 - The analytics are restricted to pages visited and performance, following [Cloudfare's promise of privacy-first analytics](https://developers.cloudflare.com/analytics/web-analytics/) (Cloudflare Web Analytics does not collect or use your visitors’ personal data.)
 - Design and images are done using [Inkscape](https://inkscape.org/) and [GIMP](https://www.gimp.org/)
-- This website is licensed under CC BY 4.0. This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. 
+- This website is licensed under CC BY 4.0. [This license](https://github.com/joaquincabezas/metandata/blob/main/LICENSE) requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. 
 
 ## Contact
 
