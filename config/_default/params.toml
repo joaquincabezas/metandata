@@ -46,6 +46,29 @@ footer_socials = true
 home_hero_socials = true
 about_page_socials = true
 
+[homepage]
+  layout = "card" # valid options: page, profile, hero, card, background, custom
+  showRecent = true
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "/posts"
+  cardView = true
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = false # only used when layout equals background
+
+[article]
+  showHero = true
+  heroStyle = "card" 
+  showSummary = false
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+
+[list]
+  showCards = true
+  groupByYear = false
+  cardView = true
+
 # Enable or disable individual social icons
 [social.links]
   twitter = "joaquincabezas"
