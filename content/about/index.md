@@ -25,7 +25,7 @@ goals.
 ## Technical details
 
 - This website is served using [Cloudflare Pages](https://pages.cloudflare.com/)
-- The content is hosted at a [Github repository](https://github.com/joaquincabezas/metandata).
+- The content is hosted at a [Github repository](https://github.com/joaquincabezas/metandata).{{< github repo="joaquincabezas/metandata" >}}
 - The framework is [Hugo](https://gohugo.io/). The whole site is served statically.
 - The theme is [Blowfish](https://blowfish.page/) by [Nuno Coração](https://nunocoracao.com/).
 - The analytics are restricted to pages visited and performance, following [Cloudfare's promise of privacy-first analytics](https://developers.cloudflare.com/analytics/web-analytics/) (Cloudflare Web Analytics does not collect or use your visitors’ personal data.)

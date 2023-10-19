@@ -60,8 +60,8 @@ about_page_socials = true
   showHero = true
   heroStyle = "card" 
   showSummary = false
-  showTableOfContents = true
-  showRelatedContent = true
+  showTableOfContents = false
+  showRelatedContent = false
   relatedContentLimit = 3
 
 [list]
